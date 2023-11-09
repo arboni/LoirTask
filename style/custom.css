@@ -1,0 +1,14 @@
+.nav {
+    background-color: #274488;
+    color: #1c1c1c;
+    
+}
+.nav-link {
+    color: antiquewhite;
+    font-size: large;
+    font-weight: bold;
+    transition: all;
+}
+.nav-link :hover {
+    color: rgb(180, 230, 231);
+}
